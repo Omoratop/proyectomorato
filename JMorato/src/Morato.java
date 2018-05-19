@@ -6,6 +6,7 @@ public class Morato {
 	private String lugarNacimiento;
 	private int anyoNacimiento;
 	private String dni;
+	private boolean duda;
 	
 	public Morato(){
 		nombre = "Oscar";
@@ -14,6 +15,7 @@ public class Morato {
 		lugarNacimiento = "St. Gallen (Suiza)";
 		anyoNacimiento = 1975;
 		dni = "345248450R";
+		duda = false;
 	}
 
 	public String getNombre() {
