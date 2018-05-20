@@ -5,9 +5,9 @@ public class Suma {
 	private int sumandoA;
 	private int sumandoB;
 	private int total;
-	
+
 	public Suma(int a, int b){
-		
+
 		sumandoA = a;
 		sumandoB = b;
 		
