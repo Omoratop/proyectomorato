@@ -1,4 +1,3 @@
-package modulocentral;
 //Version 1.0
 public class Morato {
 	private String nombre;
@@ -8,6 +7,7 @@ public class Morato {
 	private int anyoNacimiento;
 	private String dni;
 	
+	
 	public Morato(){
 		nombre = "Oscar";
 		apellidos = "Morato Prieto";
@@ -15,6 +15,7 @@ public class Morato {
 		lugarNacimiento = "St. Gallen (Suiza)";
 		anyoNacimiento = 1975;
 		dni = "345248450R";
+		duda = false;
 	}
 
 	public String getNombre() {
