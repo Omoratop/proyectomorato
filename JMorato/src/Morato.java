@@ -1,4 +1,4 @@
-package modulocentral;
+
 //Version 1.0
 public class Morato {
 	private String nombre;
