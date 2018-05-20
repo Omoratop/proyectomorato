@@ -1,7 +1,7 @@
 //Version suma 1
 
 public class Suma {
-	
+
 	private int sumandoA;
 	private int sumandoB;
 	private int total;
