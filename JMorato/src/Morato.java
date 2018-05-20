@@ -1,5 +1,5 @@
 
-//Version 1.0
+//Version 2.0
 public class Morato {
 	private String nombre;
 	private String apellidos;
